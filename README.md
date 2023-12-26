@@ -19,7 +19,7 @@ This project relies on several Python libraries to function. Below are the libra
 - [scikit-learn](https://pypi.org/project/scikit-learn/) version 1.3.2
 - [matplotlib](https://pypi.org/project/matplotlib/) version 3.8.2
 - [seaborn](https://pypi.org/project/seaborn/) version 0.13.0
-
+- [ta](https://pypi.org/project/ta/) version 0.11.0
 ### How to Install
 
 To install the required libraries, you can use the provided `requirements.txt` file. Open your terminal or command prompt, navigate to the project directory, and run the following command:
